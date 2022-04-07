@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Mazzard';
+    src: local('Mazzard M Light'), local('Mazzard-M-Light'),
+    url('../fonts/MazzardM-Light.woff2') format('woff2'),
+    url('../fonts/MazzardM-Light.woff') format('woff'),
+    url('../fonts/MazzardM-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: local('Myriad Pro Regular'), local('Myriad-Pro-Regular'),
+    url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+    url('../fonts/MyriadPro-Regular.woff') format('woff'),
+    url('../fonts/MyriadPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
